@@ -11,7 +11,7 @@ I am passionate about programming, so I continue learning a variety of programmi
 [3.1]: https://s4.uupload.ir/files/instagram_6djz.png
 <!-- [4.1]: https://raw.githubusercontent.com/appicons/Whatsapp/master/icons/whatsapp_194x194.png -->
 
-[2]: https://www.linkedin.com/in/julian-fernandez-707612180/
+[2]: https://www.linkedin.com/in/julian-fernandez-707612180/?locale=en_US
 [3]: https://www.instagram.com/juli_ferz/
 
 
