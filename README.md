@@ -1,5 +1,5 @@
 <h1 title="greet"> ¡Hi👋, I'm Julian!</h1>
-Hello, I'm <strong>Julian Fernandez</strong> and I'm actually a <strong>Programming Technician</strong> student at the <strong>National Technological University (UTN | FRA)</strong> 👨‍💻<br>
+Hello, I'm <strong>Julian Fernandez</strong> and I'm a <strong>Programming Technician</strong> student at the <strong>National Technological University (UTN | FRA)</strong> 👨‍💻<br>
 I am passionate about programming, so I continue learning a variety of programming languages with enthusiasm.
 
 <br>
