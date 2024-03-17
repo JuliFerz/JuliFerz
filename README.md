@@ -20,7 +20,6 @@ I am passionate about programming, so I continue learning a variety of programmi
 <h3>About me: </h3>
 
 - 📚 Studying **Programming Technician** at **UTN | FRA**.
-- 📚 Studying the complete JavaScript course on Udemy by Jonas Schmedtmann.
 - ✨ My hobbies:
     - 🎹 Pianist
     - 🏓 Ping Pong
