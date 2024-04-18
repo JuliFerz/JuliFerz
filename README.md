@@ -35,7 +35,7 @@ I am passionate about programming, so I continue learning a variety of programmi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,php,java,js,ts,angular,nodejs,nestjs,html,css,bootstrap,sqlite,mysql,postgres,docker,postman,bash,powershell,jenkins,linux,git,github,idea,visualstudio,vscode,discord" />
+    <img src="https://skillicons.dev/icons?i=py,cs,php,java,js,ts,angular,nodejs,nestjs,html,css,vue,nuxt,bootstrap,sqlite,mysql,postgres,docker,postman,bash,powershell,jenkins,linux,git,github,idea,visualstudio,vscode,discord" />
   </a>
 </p>
 
